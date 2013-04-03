@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extension Updates</key>
+	<array>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.github.chenglou.flip-it</string>
+			<key>Developer Identifier</key>
+			<string>77GFLH7M65</string>
+			<key>CFBundleVersion</key>
+			<string>1</string>
+			<key>CFBundleShortVersionString</key>
+			<string>1.0</string>
+			<key>URL</key>
+			<string>https://github.com/chenglou/flip-it/blob/master/flip-it.safariextz?raw=true</string>
+		</dict>
+	</array>
+</dict>
+</plist>
