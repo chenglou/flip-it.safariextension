@@ -55,6 +55,8 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://raw.github.com/chenglou/flip-it/master/version.plist</string>
 	<key>Website</key>
 	<string>http://chenglou.github.com/flip-it</string>
 </dict>
